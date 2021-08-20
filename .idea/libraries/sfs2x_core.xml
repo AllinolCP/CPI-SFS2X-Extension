@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sfs2x-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sfs2x-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sfs2x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

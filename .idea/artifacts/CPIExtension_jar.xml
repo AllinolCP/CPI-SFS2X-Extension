@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CPIExtension:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPIExtension_jar</output-path>
+    <root id="archive" name="CPIExtension.jar">
+      <element id="module-output" name="CPIExtension" />
+    </root>
+  </artifact>
+</component>
